@@ -30,8 +30,7 @@ Synthesizing a FPGA firmware that performs the Faded KittCar task, obtaining the
 To see the details, please look at each VHDL module (of course, they are commented).  
 Just to make the life easier, here's the schematic of 'controller.vhd':  
 
-![controller_schematic](https://user-images.githubusercontent.com/92381157/137215879-ea764a5d-5e8c-4b94-87a9-695001fdda48.jpg)
-
+<img src="https://user-images.githubusercontent.com/92381157/137215879-ea764a5d-5e8c-4b94-87a9-695001fdda48.jpg" width="600">
 
 ## Utilization
 On a Digilent Basys 3, with N_LEDS = N_SWITCHES = 16, TAIL = 4, T0 = 1000.   
